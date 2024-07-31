@@ -1,0 +1,15 @@
+{
+  "item.test_mod.ruby": "Ruby",
+  "item.test_mod.tuan": "Tuan",
+  "item.test_mod.cooked_tuan": "cooked Tuan",
+  "item.test_mod.thinh_trident": "Thinh the Trident",
+  "item.test_mod.ruby_pickaxe" : "Ruby PickAxe",
+
+  "block.test_mod.ruby_block": "Block of Ruby",
+  "block.test_mod.tuan_block": "Block of Tuan",
+  "block.test_mod.ruby_ore": "Ruby Ore",
+  "block.test_mod.deepslate_ruby_ore": "Deepslate Ruby Ore",
+  "block.test_mod.ruby_slab": "Ruby Slab",
+
+  "itemgroup.ruby": "Test Mod"
+}
